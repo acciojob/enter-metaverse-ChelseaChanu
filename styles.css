@@ -1,4 +1,4 @@
 /*  your css code here. If applicable */
-h1{
-	display:none;
+#enterBtn:hover{
+	background-color:skyblue;
 }
