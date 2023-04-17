@@ -6,5 +6,5 @@ btn.addEventListener("click",()=>{
 	ptag.textContent = "Entered Metaverse";
 	const update = document.createElement("h1");
 	update.textContent = "Entered Metaverse";
-	ptag.parentNode.replaceChild(update,ptag);
+	// ptag.parentNode.replaceChild(update,ptag);
 });
